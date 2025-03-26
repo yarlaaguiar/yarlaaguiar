@@ -2,10 +2,10 @@
 ## My name is Yarla!
 
 - 🔭 I currently work as a traffic manager and as a commercial consultant;
-- 🌱 I'm currently learning about the Java programming language;
+- 🌱 I'm currently learning about the Java programming language and PHP;
 - 🤔 I'm looking for an internship in the technology field
 - 🙏 Christian woman;
-- 💪 I love bodybuilding;
+- 💪 I love musculation;
 - 📚 Willing to learn new things.
 
 # Tools and technologies
