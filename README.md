@@ -1,12 +1,12 @@
 ##  👋 Hello! Welcome to my Github profile.
 ## My name is Yarla!
 
-- 🔭 I currently work as a traffic manager and as a commercial consultant;
-- 🌱 I'm currently learning about the Java programming language and PHP;
+- 🔭 I currently work as a commercial consultant;
+- 🌱 I'm currently learning about the Java, Python and PHP;
 - 🤔 I'm looking for an internship in the technology field
-- 🙏 Christian woman;
-- 💪 I love musculation;
 - 📚 Willing to learn new things.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yarlaaguiar"/> <img height="180em" src="https://github.com/yarlaaguiar/github-readme-stats">
 
 # Tools and technologies
 
