@@ -1,24 +1,42 @@
-##  👋 Hello! Welcome to my Github profile.
-## My name is Yarla!
+ <div align="center">
+  <h2>👋 Hello! I'm, <strong>Yarla Aguiar</strong>. Welcome to my Github profile.</h2> 
+  <br>
+  </div>
+  
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=yarlaaguiar&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=yarlaaguiar&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarlaaguiar&theme=radical"/>
+</div>
 
-- 🔭 I currently work as a commercial consultant;
-- 🌱 I'm currently learning about the Java, Python and PHP;
-- 🤔 I'm looking for an internship in the technology field
-- 📚 Willing to learn new things.
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yarlaaguiar"/> <img height="180em" src="https://github.com/yarlaaguiar/github-readme-stats">
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
 
-# Tools and technologies
+</div>
+<br>
 
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
-
-# I'm learning: 
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-
- ## Contatos:
- <div>
- <a href="https://www.linkedin.com/in/yarla-aguiar-0651ba251/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/yatec_h/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yarlaaguiar1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div align="center">
+   <h2>Contact me:</h2>
+  <br>
+ <a href="https://www.instagram.com/yatec_h/" target="_blank"><img loading="lazy" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"></a>
+ <a href="https://www.linkedin.com/in/yarla-aguiar-0651ba251/" target="_blank"><img loading="lazy" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a>
+  <a href = "mailto:yarlaaguiar1@gmail.com"><img loading="lazy" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"></a>
  </div>
 
